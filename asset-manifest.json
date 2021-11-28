@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harika-kallam.github.io/csb-xmi29/static/css/main.49bdffec.chunk.css",
+    "main.js": "https://harika-kallam.github.io/csb-xmi29/static/js/main.01912653.chunk.js",
+    "main.js.map": "https://harika-kallam.github.io/csb-xmi29/static/js/main.01912653.chunk.js.map",
+    "runtime-main.js": "https://harika-kallam.github.io/csb-xmi29/static/js/runtime-main.e51d55cd.js",
+    "runtime-main.js.map": "https://harika-kallam.github.io/csb-xmi29/static/js/runtime-main.e51d55cd.js.map",
+    "static/js/2.84bf5c9f.chunk.js": "https://harika-kallam.github.io/csb-xmi29/static/js/2.84bf5c9f.chunk.js",
+    "static/js/2.84bf5c9f.chunk.js.map": "https://harika-kallam.github.io/csb-xmi29/static/js/2.84bf5c9f.chunk.js.map",
+    "index.html": "https://harika-kallam.github.io/csb-xmi29/index.html",
+    "static/css/main.49bdffec.chunk.css.map": "https://harika-kallam.github.io/csb-xmi29/static/css/main.49bdffec.chunk.css.map",
+    "static/js/2.84bf5c9f.chunk.js.LICENSE.txt": "https://harika-kallam.github.io/csb-xmi29/static/js/2.84bf5c9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e51d55cd.js",
+    "static/js/2.84bf5c9f.chunk.js",
+    "static/css/main.49bdffec.chunk.css",
+    "static/js/main.01912653.chunk.js"
+  ]
+}
